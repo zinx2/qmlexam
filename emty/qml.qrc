@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CPItem.qml</file>
+    </qresource>
+</RCC>
