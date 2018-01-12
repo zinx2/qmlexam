@@ -1,6 +1,13 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
-        <file>CPItem.qml</file>
+        <file>CPListView.qml</file>
+        <file>CPListModel.qml</file>
+        <file>CPRepeaterRow.qml</file>
+        <file>VWPage.qml</file>
+        <file>resources.js</file>
+        <file>CPRepeaterColumn.qml</file>
+        <file>CPSizeDemo.qml</file>
+        <file>CPAnchorDemo.qml</file>
     </qresource>
 </RCC>
